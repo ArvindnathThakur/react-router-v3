@@ -1,0 +1,12 @@
+.sidebar {
+    width: 200px;
+    background: var(--gray);
+    margin: 20px;
+}
+
+.emojis {
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
